@@ -323,3 +323,10 @@ Built by [theluckystrike](https://github.com/theluckystrike).
 Any MCP client (Claude, Cursor, Windsurf, VS Code) can read this repository's documentation directly via GitMCP — no install:
 
 - Docs MCP URL: https://gitmcp.io/theluckystrike/mcp-image
+
+
+## Get it running in 60 seconds
+
+Add the hosted endpoint to Claude, Cursor or any MCP client - free tier, no signup: `https://mcp.zovo.one/mcp/image`
+See the full tool list and worked examples: [mcpstamp.com/servers/image](https://www.mcpstamp.com/servers/image/)
+Unlimited calls + priority support: [$39 lifetime](https://mcp.zovo.one/buy/bundle)
